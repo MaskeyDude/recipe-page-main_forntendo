@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Outfit", sans-serif;
+    color: hsl(24, 5%, 18%);
+    background-color: hsl(30, 54%, 90%);
+}
+
+.container {
+    max-width: 80%;
+    margin: 6em auto;
+    padding: 2em;
+    background-color: white;
+    border-radius: 1.4em
+}
+
+.heading-font {
+    font-family: "Young Serif", serif;
+}
+
+.main-info {
+
+}
+
+.main-info img {
+    width: 100%;
+    margin: 0 auto;
+    border-radius: 0.6em;
+}
+
+.main-title {
+    color: hsl(24, 5%, 18%);
+}
+
+.desc {
+    font-size: 16px;
+}
+
+.prep {
+    padding: 1em;
+    line-height: 1.6em;
+    background-color: hsl(330, 100%, 98%);
+}
+
+.prep h5 {
+    color: hsl(332, 51%, 32%);
+}
+
+.prep-time li {
+}
+
+.prep-time span {
+    font-weight: bold;
+}
+
+.sub-title {
+    color: hsl(14, 45%, 36%);
+}
+
+
+.ingregs li::marker {
+    color: hsl(14, 45%, 36%);
+}
+
+.ingregs li {
+}
+
+.instructs li::marker {
+    font-weight: bold;
+    color: hsl(14, 45%, 36%);
+}
+
+
+.instructs span {
+    font-weight: bold;
+}
+
+hr {
+    margin: 2em;
+    border: none;
+    height: 1px;
+    background-color: hsl(30, 18%, 87%);
+}
+
+table {
+    width: 100%;
+}
+
+td {
+    padding: 0.6em 0;
+    border-bottom: 1px solid hsl(30, 18%, 87%);
+}
+
+.cal {
+    font-weight: bold;
+    color: hsl(14, 45%, 36%);
+}
+
+
+
+.attribution {
+    padding: 1em;
+    text-align: center;
+    background-color: hsl(14, 45%, 36%);
+}
+
+.attribution a {
+    color: hsl(330, 100%, 98%);
+    text-decoration: none;
+}
