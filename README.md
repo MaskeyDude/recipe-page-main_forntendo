@@ -1,9 +1,6 @@
-# Frontend Mentor - Recipe page solution
-
-This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+# Frontend Mentor - Recipe Page
 
 ## Table of contents
-
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
@@ -16,7 +13,14 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-## Overview
+# Overview
+
+Meh I don't like the look of table of contents but I guess they're nice...?
+
+## The challenge
+
+Well replicate this as closely as I can... *sigh*
+[Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
 
 ### Screenshot
 
