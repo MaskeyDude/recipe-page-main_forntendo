@@ -71,6 +71,7 @@ ol li::marker {
 - Finally remembered this blank thingy:
 ```html
 <a href="#" target="_blank">This link will open in another tab</a>
+```
 
 ### Continued development
 
@@ -83,4 +84,4 @@ I really like front end projects but I just get kinda overwhelmed on where to st
 
 ## Acknowledgments
 
-W3schools and online dudes who post solutions really helped me. I'll post links if I find em again
+W3schools and online dudes who post solutions really helped me.
