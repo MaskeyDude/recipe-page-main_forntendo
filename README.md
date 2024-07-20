@@ -9,7 +9,6 @@
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -24,15 +23,14 @@ Well replicate this as closely as I can... *sigh*
 
 ### Screenshot
 
-![](./screenshot.jpg)
+Web Version
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+![](./screenshots/recipe-page_frontendo.png)
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
+Mobile Version
 
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+![](./screenshots/recipe-page-mob_frontendo.png)
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
@@ -40,6 +38,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Live Site URL: [Add live site URL here](https://maskeydude.github.io/recipe-page-main_forntendo/)
 
 ## My process
+
+I left it for a long time then remembered again and realized that I actually enjoy it lol. I did the html stuff first then css ... yeah
 
 ### Built with
 
@@ -68,15 +68,13 @@ ol li::marker {
 /* font-family: ; */
 ```
 
+- Finally remembered this blank thingy:
+```html
+<a href="#" target="_blank">This link will open in another tab</a>
+
 ### Continued development
 
 I really like front end projects but I just get kinda overwhelmed on where to start after seeing a fresh blank project. Well.. I also like writing readme.md and only started avoiding them as I got confused. So now I'm not really gonna focus on finishing stuff instead just do as much as I wanna yeah as at the end of the day it's for practice anyway :>
-
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
