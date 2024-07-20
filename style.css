@@ -17,8 +17,9 @@ body {
     margin: 6.6em auto;
     padding: 2.5em;
     background-color: white;
-    border-radius: 1.4em
+    border-radius: 1.4em;
 }
+
 
 .heading-font {
     font-family: "Young Serif", serif;
@@ -30,10 +31,43 @@ body {
     border-radius: 0.6em;
 }
 
+.mob-img {
+    display: none;
+}
+
+
 .main-title {
     font-size: 2.4em;
     font-weight: normal;
     color: hsl(24, 5%, 18%);
+}
+
+@media (max-width: 640px) {
+
+    .main-info img {
+        display: none;
+    }
+
+    .mob-img {
+        display: block;
+        width: 100%;
+        margin-bottom: 1.4em;
+    }
+
+    .for-mob {
+        padding: 0 1.6em;
+    }
+
+    .container {
+        width: 100%;
+        border-radius: 0;
+        padding: 0;
+    }
+
+    .main-title {
+        font-size: 2em;
+    }
+
 }
 
 .desc {
@@ -88,8 +122,7 @@ li {
     color: hsl(14, 45%, 36%);
 }
 
-.ingregs li {
-}
+.ingregs li {}
 
 .instructs li::marker {
     font-size: 0.9em;
